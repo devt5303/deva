@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710924199,,"wq"
+|2,0,1711005661,,"wq"
 :q
 |2,0,1710923292,,"q"
 
@@ -25,34 +25,57 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	my name  is devanm k8umar palwal bamni khgea
-|3,1,1,1,1,0,1710923220,"my name  is devanm k8umar palwal bamni khgea"
+|3,0,1,1,1,0,1710923220,"my name  is devanm k8umar palwal bamni khgea"
 "-	CHAR	0
 	r
 |3,0,36,0,1,0,1710923214,"r"
 
 # File marks:
-'0  2  0  ~/devan
-|4,48,2,0,1710924199,"~/devan"
-'1  2  0  ~/deva
-|4,49,2,0,1710923305,"~/deva"
+'0  1  25  ~/java
+|4,48,1,25,1711005661,"~/java"
+'1  2  0  ~/devan
+|4,49,2,0,1710924199,"~/devan"
+'2  2  0  ~/deva
+|4,50,2,0,1710923305,"~/deva"
 
 # Jumplist (newest first):
+-'  1  25  ~/java
+|4,39,1,25,1711005661,"~/java"
 -'  2  0  ~/devan
 |4,39,2,0,1710924199,"~/devan"
+-'  2  0  ~/devan
+|4,39,2,0,1710924199,"~/devan"
+-'  1  0  ~/devan
+|4,39,1,0,1710924178,"~/devan"
 -'  1  0  ~/devan
 |4,39,1,0,1710924178,"~/devan"
 -'  2  0  ~/deva
 |4,39,2,0,1710923305,"~/deva"
 -'  2  0  ~/deva
 |4,39,2,0,1710923305,"~/deva"
+-'  2  0  ~/deva
+|4,39,2,0,1710923305,"~/deva"
+-'  2  0  ~/deva
+|4,39,2,0,1710923305,"~/deva"
+-'  1  0  ~/deva
+|4,39,1,0,1710923141,"~/deva"
+-'  1  0  ~/deva
+|4,39,1,0,1710923141,"~/deva"
 -'  1  0  ~/deva
 |4,39,1,0,1710923141,"~/deva"
 -'  1  0  ~/deva
 |4,39,1,0,1710923141,"~/deva"
 
 # History of marks within files (newest to oldest):
+
+> ~/java
+	*	1711005652	0
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	25
 
 > ~/devan
 	*	1710924189	0
